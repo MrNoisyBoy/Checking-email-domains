@@ -173,9 +173,6 @@ python eeeemail.py test@gmail.com --sender different@example.com
 
 MIT License - используйте как хотите, но с указанием авторства
 
-## 📞 Контакты
-
-По всем вопросам: [ваш email]
 
 ---
 
